@@ -6,10 +6,6 @@
         </samp>
 <h3 align="center"></h3>
 
-<samp>&gt; 🔭 I’m currently looking for **a Job position** </samp>
-
-<samp>&gt; 🌱 I’m currently learning **WebGL, Python** </samp>
-
 <samp>&gt; 📫 How to reach me **valentini.valeria.98@gmail.com** | 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/valeria-valentini-4b0369234/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="valeValentini"/></a> | 
